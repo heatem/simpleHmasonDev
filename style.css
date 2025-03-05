@@ -1,0 +1,69 @@
+body {
+    background-color: #dadafe;
+    color: #373737;
+    font-family: "Mulish", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+a, a:link {
+    color: #A7CEF5;
+}
+
+a:visited {
+    color: #dadafe;
+}
+
+a:focus, a:hover {
+    color: #d4ffd5;
+}
+
+.great-vibes-regular {
+    font-family: "Great Vibes", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#intro-section {
+    border: 0.5rem solid #373737;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#social-links-section {
+    background-color: #373737;
+    border-top: 0.5rem solid #dadafe;
+    color: #dadafe;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#intro-container {
+    max-width: fit-content;
+}
+
+#lead-in {
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
+#prominent-name {
+    margin: 0;
+    text-align: center;
+}
+
+#lead-out {
+    text-align: right;
+    padding: 0;
+    margin: 0;
+}
