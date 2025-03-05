@@ -29,6 +29,10 @@ a:focus, a:hover {
     font-style: normal;
 }
 
+.fa-brands {
+    margin: 1rem;
+}
+
 #intro-section {
     border: 0.5rem solid #373737;
     padding: 1rem;
